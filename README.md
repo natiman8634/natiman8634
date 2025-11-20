@@ -26,7 +26,6 @@ I'm **Natnael Samson**, a passionate developer who loves creating modern, scalab
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" width="120"/>
 </p>
-
 A fully responsive Netflix-style UI with dynamic components and modern design principles.
 
 ---
@@ -35,7 +34,6 @@ A fully responsive Netflix-style UI with dynamic components and modern design pr
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" width="150"/>
 </p>
-
 E-commerce styled product interface inspired by the Amazon experience.
 
 ---
@@ -48,10 +46,19 @@ E-commerce styled product interface inspired by the Amazon experience.
 
 ---
 
-## 📁 Top Languages
+## 🐍 Contributions in the Last Year
 <p align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natiman8634&layout=compact&theme=react" />
+  <img src="https://raw.githubusercontent.com/natiman8634/natiman8634/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
+---
+
+## 🎮 Mini Fun Corner – Developer Games
+> 🕹️ *Loading brain… compiling creativity… executing genius mode.*
+
+- 🔵 **Bug Hunt:** Try to find a bug before it finds you.  
+- 🟩 **Logic Puzzles:** Solve code without Googling (if you dare 👀).  
+- 🟥 **Coffee Speedrun:** 0 → fully awake in under 4 seconds.
 
 ---
 
@@ -66,5 +73,3 @@ E-commerce styled product interface inspired by the Amazon experience.
 
 ## ⚡ Fun Fact
 > “Great code is written once. Great design is noticed forever.”
-
----
