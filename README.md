@@ -5,17 +5,17 @@
 
 ---
 
-## 🚀 About Me  
-I'm **Natnael Samson**, a passionate full-stack developer focused on creating modern, scalable, and user-friendly digital experiences.  
-I love building clean UI/UX interfaces and powerful backend systems.
+## 🚀 About Me
+I'm **Natnael Samson**, a passionate full-stack developer who builds modern, responsive, and scalable web applications.  
+I love crafting beautiful UI/UX and writing clean, maintainable code.
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <!-- Languages -->
+  <!-- Languages & Frameworks -->
   <img src="https://skillicons.dev/icons?i=html,css,js,react,java,mongodb" />
-  <br/><br/>
+  <br/>
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,figma" />
 </p>
@@ -24,25 +24,23 @@ I love building clean UI/UX interfaces and powerful backend systems.
 
 ## 🌐 Featured Projects
 
-### 🟥 **Netflix Clone**
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" width="150"/>
+### 🟥 Netflix Clone  
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" width="120"/>
 </p>
-
-A modern Netflix-style UI with animations, sliders, and responsive layouts.
+A fully responsive Netflix-inspired UI with dynamic components.
 
 ---
 
-### 🟧 **Amazon UI**
-<p align="left">
+### 🟧 Amazon UI  
+<p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" width="150"/>
 </p>
-
-A clean Amazon-inspired UI using React & modern design systems.
+E-commerce styled interface inspired by Amazon's product layout.
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Analytics
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=natiman8634&show_icons=true&theme=react" />
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=natiman8634&theme=react" />
@@ -54,7 +52,7 @@ A clean Amazon-inspired UI using React & modern design systems.
 > Updates automatically every day.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/natiman8634/natiman8634/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/natiman8634/natiman8634/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -68,7 +66,7 @@ A clean Amazon-inspired UI using React & modern design systems.
 
 ---
 
-## ⚡ Fun Fact  
+## ⚡ Fun Fact
 > “Great code is written once. Great design is noticed forever.”
 
 ---
