@@ -46,13 +46,6 @@ E-commerce styled product interface inspired by the Amazon experience.
 
 ---
 
-## 🐍 Contributions in the Last Year
-<p align="center">
-  <img src="https://raw.githubusercontent.com/natiman8634/natiman8634/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ## 🎮 Mini Fun Corner – Developer Games
 > 🕹️ *Loading brain… compiling creativity… executing genius mode.*
 
