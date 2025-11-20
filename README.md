@@ -1,12 +1,13 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+There+👋,+I'm+Natnael+Samson;Full-Stack+Developer+%7C+UI+%2F+UX+Designer;Building+Modern+Web+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+There+👋,+I'm+Natnael+Samson;Full-Stack+Developer+%7C+UI+%2F+UX+Designer;Building+Modern+Web+Experiences" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 🚀 About Me
-I'm **Natnael Samson**, a passionate developer who builds modern, scalable and visually clean digital experiences.
+I'm **Natnael Samson**, a passionate developer who loves creating modern, scalable, and user-friendly digital experiences.  
+Focused on clean UI/UX and solid engineering foundations.
 
 ---
 
@@ -21,39 +22,37 @@ I'm **Natnael Samson**, a passionate developer who builds modern, scalable and v
 
 ## 🌐 Featured Projects
 
-### 🟥 Netflix Clone  
+### 🟥 Netflix Clone
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" width="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" width="120"/>
 </p>
-
-A responsive movie-streaming UI inspired by Netflix.
+A fully responsive Netflix-style UI with dynamic components.
 
 ---
 
-### 🟧 Amazon UI  
+### 🟧 Amazon UI
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" width="160"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" width="150"/>
 </p>
-
-A modern e-commerce interface inspired by Amazon's design.
+Amazon-inspired e-commerce interface with modern UI layout.
 
 ---
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=natiman8634&show_icons=true&theme=react" />
-  <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=natiman8634&theme=react" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=natiman8634&show_icons=true&theme=react" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=natiman8634&theme=react" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake (Live Animation)
 
+> Updates automatically every day.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/natiman8634/natiman8634/output/github-contribution-grid-snake.svg" />
 </p>
-
-> Updates automatically every day.
 
 ---
 
@@ -66,5 +65,6 @@ A modern e-commerce interface inspired by Amazon's design.
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Fun Fact  
 > “Great code is written once. Great design is noticed forever.”
+
