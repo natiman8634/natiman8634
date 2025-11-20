@@ -2,20 +2,24 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */24 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate Snake Animation
+      - name: Clone repo
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: natiman8634
           outputs: dist/snake.svg
 
-      - name: Upload to GitHub Pages
+      - name: Push Snake to GitHub
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
