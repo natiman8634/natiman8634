@@ -5,8 +5,9 @@
 
 ---
 
-## 🚀 About Me
-I'm **Natnael Samson**, a passionate developer who loves creating modern, scalable, and user-friendly digital experiences. My work focuses on clean UI/UX and solid engineering foundations.
+## 🚀 About Me  
+I'm **Natnael Samson**, a passionate full-stack developer focused on creating modern, scalable, and user-friendly digital experiences.  
+I love building clean UI/UX interfaces and powerful backend systems.
 
 ---
 
@@ -14,7 +15,7 @@ I'm **Natnael Samson**, a passionate developer who loves creating modern, scalab
 <p align="center">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=html,css,js,react,java,mongodb" />
-  <br/>
+  <br/><br/>
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,figma" />
 </p>
@@ -22,23 +23,26 @@ I'm **Natnael Samson**, a passionate developer who loves creating modern, scalab
 ---
 
 ## 🌐 Featured Projects
+
 ### 🟥 **Netflix Clone**
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" width="120"/>
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" width="150"/>
 </p>
-A fully responsive Netflix-style UI with dynamic components and modern design principles.
+
+A modern Netflix-style UI with animations, sliders, and responsive layouts.
 
 ---
 
 ### 🟧 **Amazon UI**
-<p>
+<p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" width="150"/>
 </p>
-E-commerce styled product interface inspired by the Amazon experience.
+
+A clean Amazon-inspired UI using React & modern design systems.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics  
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=natiman8634&show_icons=true&theme=react" />
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=natiman8634&theme=react" />
@@ -46,12 +50,12 @@ E-commerce styled product interface inspired by the Amazon experience.
 
 ---
 
-## 🎮 Mini Fun Corner – Developer Games
-> 🕹️ *Loading brain… compiling creativity… executing genius mode.*
+## 🐍 Contribution Snake (Live Animation)
+> Updates automatically every day.
 
-- 🔵 **Bug Hunt:** Try to find a bug before it finds you.  
-- 🟩 **Logic Puzzles:** Solve code without Googling (if you dare 👀).  
-- 🟥 **Coffee Speedrun:** 0 → fully awake in under 4 seconds.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/natiman8634/natiman8634/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
 
 ---
 
@@ -64,5 +68,7 @@ E-commerce styled product interface inspired by the Amazon experience.
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Fun Fact  
 > “Great code is written once. Great design is noticed forever.”
+
+---
