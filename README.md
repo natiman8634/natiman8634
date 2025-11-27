@@ -1,13 +1,28 @@
-<!-- Banner -->
+<!-- 💫 Ultimate GitHub Profile README for Natnael Samson -->
+
+<!-- 🎨 Animated Gradient Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+There+👋,+I'm+Natnael+Samson;Full-Stack+Developer+%7C+UI+%2F+UX+Designer;Building+Modern+Web+Experiences" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Natnael%20Samson%20👨‍💻&fontAlign=50&fontAlignY=40&color=gradient&fontColor=ffffff&fontSize=50&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20UI/UX&descAlignY=60&descAlign=50" alt="Natnael Samson Banner"/>
+</p>
+
+<h3 align="center" style="font-weight:600;">
+💻 Building modern, scalable, and user-driven web applications.
+</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" alt="Boy Coding Animation"/>
 </p>
 
 ---
 
-## 🚀 About Me
-I'm **Natnael Samson**, a passionate developer who loves creating modern, scalable, and user-friendly digital experiences.  
-Focused on clean UI/UX and solid engineering foundations.
+## 🌟 About Me
+💡 *“Code is like art — every line is a brushstroke toward innovation.”*
+
+- 🎓 Software Engineering Student  
+- 🌍 Web Developer passionate about building clean UI/UX  
+- ⚡ Currently exploring **MERN stack**, backend logic, and creative frontend designs  
+- 💬 Ask me about **React, JavaScript, UI/UX, CSS animations, responsive design**  
+- ☕ Fueled by curiosity, creativity, and clean code  
 
 ---
 
