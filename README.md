@@ -9,8 +9,12 @@
 💻 Building modern, scalable, and user-driven web applications.
 </h3>
 
+
+
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2a/b6/83/2ab6833c80bd8488b4e3bcd3a1ab8f15.gif" width="600" />
+  <img src="https://img.shields.io/badge/Developer-Full%20Stack-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Modern%20Web%20Apps-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/USERNAME?style=for-the-badge"/>
 </p>
 
 
