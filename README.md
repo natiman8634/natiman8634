@@ -10,7 +10,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700" alt="Boy Coding Animation"/>
+  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="500" alt="Coding Boy Animation">
 </p>
 
 ---
