@@ -46,13 +46,11 @@ Amazon-inspired e-commerce interface with modern UI layout.
 
 ---
 
-## 🐍 Contribution Snake (Live Animation)
+✨ Quote of the Day
 
-> Updates automatically every day.
+“First, solve the problem. Then, write the code.” — John Johnson
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/natiman8634/natiman8634/output/github-contribution-grid-snake.svg" />
-</p>
+<h3 align="center">⭐️ Thanks for visiting — Don’t forget to star my repositories! ⭐️</h3> <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/> </p>
 
 ---
 
